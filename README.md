@@ -1,5 +1,7 @@
 # Mathematical-Interpretation-of-Genome
 
+This project implements a comprehensive DNA tandem repeat analysis system with numerical encoding (A=2, C=3, G=5, T=7) and advanced genetic mutation analysis.
+
 ## 🧬 **Complete Local Installation Package**
 
 This package contains everything you need to run the DNA Tandem Repeat analysis website locally on your computer.
