@@ -8,7 +8,7 @@ This package contains everything you need to run the DNA Tandem Repeat analysis 
 
 ## 🌐 **Live Website**
 
-https://j6h5i7cp58wx.manus.space/
+[https://j6h5i7cp58wx.manus.space/]
 
 ## 📋 **Features**
 
