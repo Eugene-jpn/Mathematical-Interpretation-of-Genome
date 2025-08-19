@@ -7,8 +7,8 @@ This project implements a comprehensive DNA tandem repeat analysis system with n
 This package contains everything you need to run the DNA Tandem Repeat analysis website locally on your computer.
 
 ## 🌐 **Live Website**
-
-https://dyh6i3cvgmdd.manus.space/
+[
+https://dyh6i3cvgmdd.manus.space/]
 
 ## 📋 **Features**
 
